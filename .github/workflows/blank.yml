@@ -1,4 +1,4 @@
-name: CI
+name: dung
 
 on: workflow_dispatch
 
